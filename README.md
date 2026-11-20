@@ -21,6 +21,7 @@
 | 08 | Bố cục và điều hướng React | Hoàn thành code, chờ kiểm thử trên máy |
 | 09 | Đăng ký, đăng nhập, khôi phục phiên, bảo vệ route, hồ sơ | Hoàn thành code, chờ kiểm thử trên máy |
 | 10 | Danh sách, chi tiết sản phẩm, ảnh, đánh giá, thêm giỏ | Hoàn thành code, chờ kiểm thử trên máy |
+| 11 |Giao diện phân trang, hiển thị sản phẩm nổi vật và mới ở trang chủ, kiểm tra tóc độ ảnh và respomsive| Hoàn thành code, chờ kiểm thử trên máy |
 | Mở rộng | Giao diện TV Studio; giỏ hàng, đặt hàng, đơn hàng, khu Manager/Admin trên React; biến thể màu/size, upload ảnh, sổ địa chỉ, đổi mật khẩu, dashboard, quản lý người dùng, cấu hình | Hoàn thành code, chờ kiểm thử trên máy |
 
 ## Cách chạy
